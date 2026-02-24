@@ -1,7 +1,7 @@
 # SimpleToDo_SQLITE
-# SimpleToDo_SQLITE
 
-A full-stack Todo application built using:
+
+A  Todo application built using:
 
 - React (Frontend)
 - Node.js + Express (Backend)
